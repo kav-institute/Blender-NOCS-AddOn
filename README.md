@@ -2,6 +2,8 @@
 
 This Blender addon generates **NOCS (Normalized Object Coordinate Space)** materials for mesh objects, allowing you to visualize objects in normalized object space.
 
+![Alt Text](nocs.gif)
+
 ## Features
 - Generate NOCS materials for individual objects.
 - Automatically calculates bounding box dimensions for accurate normalization.
